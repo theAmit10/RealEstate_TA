@@ -4,6 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pylint = "*"
+autopep8 = "*"
+astroid = "*"
+django = "*"
+isort = "*"
+six = "*"
 
 [dev-packages]
 
