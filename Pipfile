@@ -13,6 +13,8 @@ six = "*"
 psycopg2 = "*"
 psycopg2-binary = "*"
 pillow = "*"
+pylint-django = "*"
+humanize = "*"
 
 [dev-packages]
 
